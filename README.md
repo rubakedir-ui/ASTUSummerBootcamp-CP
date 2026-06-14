@@ -6,11 +6,13 @@
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3895-count-digit-appearances](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
 ## Math
 |  |
 | ------- |
 | [2769-find-the-maximum-achievable-number](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3895-count-digit-appearances](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
 | ------- |
