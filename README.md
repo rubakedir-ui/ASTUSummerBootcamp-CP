@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0832-flipping-an-image](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -34,12 +35,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
+| [0832-flipping-an-image](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,4 +68,12 @@
 |  |
 | ------- |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
