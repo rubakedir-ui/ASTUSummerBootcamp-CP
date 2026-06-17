@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0463-island-perimeter](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
@@ -24,6 +25,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -78,6 +80,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0463-island-perimeter](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
