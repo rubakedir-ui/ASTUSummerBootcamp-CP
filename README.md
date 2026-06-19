@@ -12,6 +12,7 @@
 | [0463-island-perimeter](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -74,6 +75,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Stack
@@ -113,5 +115,6 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 <!---LeetCode Topics End-->
