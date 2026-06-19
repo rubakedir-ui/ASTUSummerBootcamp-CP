@@ -30,11 +30,13 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/3110-score-of-a-string) |
@@ -103,4 +105,8 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
