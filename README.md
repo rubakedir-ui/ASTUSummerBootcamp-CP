@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0349-intersection-of-two-arrays](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 | [0594-longest-harmonious-subsequence](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0643-maximum-average-subarray-i) |
@@ -37,6 +38,7 @@
 | [0036-valid-sudoku](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
+| [0349-intersection-of-two-arrays](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -60,6 +62,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -70,11 +73,13 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0349-intersection-of-two-arrays](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
