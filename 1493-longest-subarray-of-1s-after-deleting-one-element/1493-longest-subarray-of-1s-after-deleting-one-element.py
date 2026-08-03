@@ -5,20 +5,17 @@ class Solution(object):
         :rtype: int
         """
         left = 0
-        zeros = 0
-        ans = 0
-
+        count = 0
+        max_len = 0
         for right in range(len(nums)):
+           if nums[right] == 0:
+               count += 1
 
-            if nums[right] == 0:
-                zeros += 1
-
-            while zeros > 1:
+           while count > 1:
                 if nums[left] == 0:
-                    zeros -= 1
+                    count -= 1
+                left += 1  
 
-                left += 1
+           max_len = max(max_len, right - left)
 
-            ans = max(ans, right - left)
-
-        return ans
+        return max_len
