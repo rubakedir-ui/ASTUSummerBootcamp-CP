@@ -30,6 +30,7 @@
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3206-alternating-groups-i](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/3206-alternating-groups-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/3364-minimum-positive-sum-subarray) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
 ## Math
@@ -159,6 +160,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3206-alternating-groups-i](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/3206-alternating-groups-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/3364-minimum-positive-sum-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -167,4 +169,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/0037-sudoku-solver) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/rubakedir-ui/ASTUSummerBootcamp-CP/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
